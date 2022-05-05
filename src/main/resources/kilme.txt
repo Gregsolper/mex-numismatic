@@ -1,0 +1,8 @@
+## configuraciòn anterior Herouku Mex-numismaic
+##spring.datasource.url=jdbc:postgresql://ec2-99-81-177-233.eu-west-1.compute.amazonaws.com:5432/dcvd0agbu8qhha
+##spring.datasource.username=vygodxqlxtnear
+##spring.datasource.password=721d9cd636052d06248a78c450d2d9a14c1e160a065e5955a0ba661b58ac75ff
+## Configuracion nueva
+##spring.datasource.url=jdbc:postgresql://ec2-52-18-116-67.eu-west-1.compute.amazonaws.com:5432/dev06rkep96e7e
+##spring.datasource.username=fiqeseyaigwsxg
+##spring.datasource.password=5a34ac38d04285d5d613e91a37ffeb86a4e3a28b6e19de4fe5aad07b48390442
